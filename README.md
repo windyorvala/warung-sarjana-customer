@@ -3,7 +3,7 @@
 This is a UI/UX prototype of a food ordering application designed for customers using Figma.
 
 ## 🔗 Prototype Link
-(https://www.figma.com/proto/DGcjKGSUDP89LBaXPPh1GY/Waroeng-Sarjana?node-id=255-358&t=tWFHJpZovpQKcJZ4-1)
+https://www.figma.com/design/DGcjKGSUDP89LBaXPPh1GY/Waroeng-Sarjana?node-id=0-1&m=dev&t=Cr70eIJoZD8TUYLd-1
 
 
 ## 📌 Features
